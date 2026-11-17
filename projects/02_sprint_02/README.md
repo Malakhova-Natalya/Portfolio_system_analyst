@@ -13,7 +13,7 @@ Chatty — это детская языковая онлайн-школа. Ко�
 - в виде табличной формы Use Case с описанием всех полей по Алистеру Коберну
 
 ## Решение
-
+[!cover](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/blob/main/projects/02_sprint_02/UML%20Use%20Case%20-%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8.jpg)
 
 | **Уникальный код и название** | **ВИ-1: Добавить слово-карточку из словаря** |
 | --- | --- |
