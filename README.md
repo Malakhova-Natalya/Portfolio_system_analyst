@@ -6,7 +6,7 @@
 | Название проекта | Описание | Навыки и инструменты |
 | :--------------------: | :---------------------: |:---------------------------:|
 | [1. Понимание профессии системного аналитика](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/tree/main/projects/01_sprint_01) |  - | - |
-| [2. Разработка требований](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/tree/main/projects/02_sprint_02) |  - | - |
+| [2. Разработка требований](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/tree/main/projects/02_sprint_02) |  - | • диаграмма в нотации UML Use Case<br>• табличная форма Use Case с описанием всех полей по Алистеру Коберну |
 
 <!-- Это скрытый текст -->
 
