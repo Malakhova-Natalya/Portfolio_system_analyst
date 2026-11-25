@@ -43,6 +43,7 @@ Chatty — это детская языковая онлайн-школа. Ко�
 
 ## 2.1 Общий взгляд на продукт
 
-
+![cover](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/blob/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png)
+Рисунок 1. Контекстная диаграмма для версии 2.0 веб-приложения Chatty
 
 
