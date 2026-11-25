@@ -343,10 +343,5 @@ Chatty — это детская языковая онлайн-школа. Ко�
 
 
 <table>
-  <tr>
-    <td bgcolor="#ffffff" width="240" align="center"><font color="#24292f"><b>Уникальный код и название</b></font></td>
-    <td bgcolor="#ffffff" width="560" align="center"><font color="#24292f"><b>ВИ-1: Найти слово в словаре</b></font></td>
-  </tr>
-  <tr><td bgcolor="#ffffff"><font color="#24292f">Контекст использования</font></td><td bgcolor="#ffffff"><font color="#24292f">Быстрый поиск перевода неизвестного слова</font></td></tr>
-  <tr><td colspan="2" bgcolor="#ffffff"><font color="#24292f">&nbsp;<br>&nbsp;</font></td></tr>
+  <tr><td bgcolor="#ffffff"><font color="#24292f">Проверка: чёрный текст на белом</font></td><td bgcolor="#ffffff">Просто текст (цвет возьмётся из темы)</td></tr>
 </table>
