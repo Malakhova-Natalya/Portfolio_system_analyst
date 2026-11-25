@@ -23,7 +23,7 @@ Chatty — это детская языковая онлайн-школа. Ко�
 
 ## Решение
 
-Спецификация требования в формате гугл-документа: [ссылка](https://docs.google.com/document/d/1RTPhNOM1ZG8PC5vlKntqncdUcU7IJt4cFAnjpqeZKbY/edit?tab=t.0)
+Спецификация требования в формате гугл-документа: [ссылка](https://docs.google.com/document/d/1RTPhNOM1ZG8PC5vlKntqncdUcU7IJt4cFAnjpqeZKbY/edit?tab=t.0) <br>
 Ниже - то же самое в формате markdown-файла
 
 ---------------------------------------------------
