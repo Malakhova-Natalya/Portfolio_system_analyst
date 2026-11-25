@@ -387,7 +387,7 @@ Chatty — это детская языковая онлайн-школа. Ко�
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Malakhova-Natalya/Portfolio_system_analyst/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%202.png"
+    <img src="https://raw.githubusercontent.com/Malakhova-Natalya/Portfolio_system_analyst/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%203.png"
          width="1000"
          alt="Рисунок 3">
     <br>
