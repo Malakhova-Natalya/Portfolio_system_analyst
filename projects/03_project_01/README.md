@@ -46,6 +46,10 @@ Chatty — это детская языковая онлайн-школа. Ко�
 ![cover](https://github.com/Malakhova-Natalya/Portfolio_system_analyst/blob/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png)
 Рисунок 1. Контекстная диаграмма для версии 2.0 веб-приложения Chatty
 
+<img src="https://raw.githubusercontent.com/Malakhova-Natalya/Portfolio_system_analyst/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png"
+     width="500"
+     alt="Рисунок 1">
+     
 ## 2.2 Классы пользователей и их характеристики
 
 | Класс пользователя | Описание |
