@@ -83,9 +83,17 @@ Chatty — это детская языковая онлайн-школа. Ко�
 
 Авторизованный пользователь Chatty может находить перевод слов в подключаемом словаре, прослушивать их озвучку, просматривать подробную информацию, просматривать видео в контексте использования и добавлять слова в словарь пользователя. Пользователь может просматривать список слов в своем словаре, редактировать его, а также добавлять слова из словаря пользователя на карточки для изучения слов.
 
+https://github.com/Malakhova-Natalya/Portfolio_system_analyst/blob/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%202.png
+
 ### 3.1.2 Use Case
 
 ![cover]()
 Рисунок 2. Диаграмма Use Case для версии 2.0 веб-приложения Chatty
 
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Malakhova-Natalya/Portfolio_system_analyst/main/projects/03_project_01/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%202.png"
+         width="1000"
+         alt="Рисунок 2">
+    <br>
+    Рисунок 2. Диаграмма Use Case для версии 2.0 веб-приложения Chatty
+</div>
