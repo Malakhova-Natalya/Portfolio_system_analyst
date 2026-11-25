@@ -394,3 +394,22 @@ Chatty — это детская языковая онлайн-школа. Ко�
     Рисунок 3. Диаграмма логической модели данных для версии 2.0 веб-приложения Chatty
 </div>
 
+## 4.2 Словарь данных
+
+<table width="800">
+  <tr>
+    <td width="130" align="center"><b>Элемент данных</b></td>
+    <td width="240" align="center"><b>Описание</b></td>
+    <td width="150" align="center"><b>Состав или тип данных</b></td>
+    <td width="60" align="center"><b>Длина</b></td>
+    <td width="220" align="center"><b>Значения</b></td>
+  </tr>
+  <tr><td width="130">Оригинал слова</td><td width="240">Слово на английском языке</td><td width="150">буквенное значение</td><td width="60">30</td><td width="220"></td></tr>
+  <tr><td width="130">Перевод слова</td><td width="240">Перевод слова на русский язык</td><td width="150">буквенное значение</td><td width="60">30</td><td width="220"></td></tr>
+  <tr><td width="130">Озвучка</td><td width="240">Аудиодорожка с произношением слова на языке оригинала</td><td width="150">файл</td><td width="60"></td><td width="220">.mp3</td></tr>
+  <tr><td width="130">Видео</td><td width="240">Видеофайл с контекстным употреблением слова на английском языке</td><td width="150">файл</td><td width="60"></td><td width="220">.mp4</td></tr>
+  <tr><td width="130">Иллюстрация слова</td><td width="240">Изображение со значением слова</td><td width="150">файл</td><td width="60"></td><td width="220">.img</td></tr>
+  <tr><td width="130">Пользователь</td><td width="240">Пользователь веб-приложения Chatty</td><td width="150">+ Никнейм</td><td width="60"></td><td width="220"></td></tr>
+  <tr><td width="130">Никнейм</td><td width="240">Имя пользователя в Chatty</td><td width="150">буквенно-цифровое значение</td><td width="60">25</td><td width="220">разрешены дефисы и нижнее подчеркивание</td></tr>
+  <tr><td width="130">Роль</td><td width="240">Тип и права пользователя в Chatty</td><td width="150">перечисление</td><td width="60"></td><td width="220">ученик, учитель</td></tr>
+</table>
