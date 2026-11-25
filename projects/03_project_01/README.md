@@ -339,3 +339,14 @@ Chatty — это детская языковая онлайн-школа. Ко�
   <tr><td>Бизнес-правила</td><td>БП-3 обязывает указывать источника и автора для каждого видео</td></tr>
   <tr><td>Изменения в технологии и данных</td><td>Использовать подключаемый словарь с возможностью просмотра видео</td></tr>
 </table>
+
+
+
+<table>
+  <tr>
+    <td bgcolor="#ffffff" width="240" align="center"><font color="#24292f"><b>Уникальный код и название</b></font></td>
+    <td bgcolor="#ffffff" width="560" align="center"><font color="#24292f"><b>ВИ-1: Найти слово в словаре</b></font></td>
+  </tr>
+  <tr><td bgcolor="#ffffff"><font color="#24292f">Контекст использования</font></td><td bgcolor="#ffffff"><font color="#24292f">Быстрый поиск перевода неизвестного слова</font></td></tr>
+  <tr><td colspan="2" bgcolor="#ffffff"><font color="#24292f">&nbsp;<br>&nbsp;</font></td></tr>
+</table>
